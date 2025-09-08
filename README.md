@@ -78,5 +78,13 @@ npm start
 경매파트
 <img width="2511" height="1364" alt="image" src="https://github.com/user-attachments/assets/f1238d1a-2d61-4991-b92b-94a0c7e099ff" />
 
+경매파트
+<img width="2511" height="1364" alt="image" src="https://github.com/user-attachments/assets/2e4761f8-f689-43c8-8b01-f9eaf0058e9f" />
+
+관리자 생
+<img width="2525" height="1385" alt="image" src="https://github.com/user-attachments/assets/54052185-2ed3-4271-92cb-43584f8e380f" />
+
+
+
 
 
