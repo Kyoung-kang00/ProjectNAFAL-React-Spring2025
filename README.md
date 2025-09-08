@@ -84,6 +84,10 @@ npm start
 관리자 생성  
 <img width="2525" height="1385" alt="image" src="https://github.com/user-attachments/assets/54052185-2ed3-4271-92cb-43584f8e380f" />
 
+데이터 베이스        
+<img width="1232" height="1206" alt="image" src="https://github.com/user-attachments/assets/dd887b6d-0a65-4c2b-83be-e36a7ae76862" />
+
+
 
 
 
