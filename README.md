@@ -68,3 +68,14 @@ npm start
 
 ## 라이선스
 이 프로젝트는 MIT 라이선스 하에 배포됩니다.
+
+
+# 주요기능 
+
+메인화면
+<img width="2511" height="1364" alt="image" src="https://github.com/user-attachments/assets/48293424-02f1-4a93-a187-bad335528573" />
+
+경매파트
+<img width="2511" height="1364" alt="image" src="https://github.com/user-attachments/assets/2e36042e-cee1-4d7a-af95-d7e0814c36b9" />
+
+
