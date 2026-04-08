@@ -62,13 +62,7 @@ npm start
 - **백엔드**: http://localhost:8080/NAFAL
 - **프론트엔드**: http://localhost:3000
 
-## 주의사항
-- `.env` 파일과 `application.properties` 파일은 절대 커밋하지 마세요
-- 개인정보(API 키, 비밀번호 등)는 환경 변수로 관리하세요
-- `localhost:8080`은 개발 환경에서만 사용하세요
 
-## 라이선스
-이 프로젝트는 MIT 라이선스 하에 배포됩니다.
 
 
 # 주요기능 
